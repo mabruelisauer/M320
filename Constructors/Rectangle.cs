@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Constructors
 {
     internal class Rectangle
-    {   
+    {
         private int Height;
         private int Width;
         private string Color;
