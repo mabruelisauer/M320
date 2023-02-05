@@ -21,7 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Komposition_Hotel", "Kompos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vererbung", "Vererbung\Vererbung.csproj", "{31F58CD5-DC77-4EEB-9E0C-297DD46C5D35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{97580CED-27FA-4C0A-9627-7634194A8EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figures", "Figures\Figures.csproj", "{97580CED-27FA-4C0A-9627-7634194A8EE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometrische_Figuren", "Geometrische_Figuren\Geometrische_Figuren.csproj", "{4C5C0FB6-DCD3-429B-AADA-A4CDA7D7F845}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam_M320_BruelisauerManuel", "Exam_M320_BruelisauerManuel\Exam_M320_BruelisauerManuel.csproj", "{D6AEC477-79C9-47D5-8B76-6C67EE5A3E64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam_M320_BruelisauerManuel_Test", "Exam_M320_BruelisauerManuel_Test\Exam_M320_BruelisauerManuel_Test.csproj", "{52AF1FF4-97FE-43A7-B249-72D882FBAA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeSimulation", "SmartHomeSimulation\SmartHomeSimulation.csproj", "{69A7B9EE-ECFB-4486-B365-85D079D1ADF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{97580CED-27FA-4C0A-9627-7634194A8EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97580CED-27FA-4C0A-9627-7634194A8EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97580CED-27FA-4C0A-9627-7634194A8EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5C0FB6-DCD3-429B-AADA-A4CDA7D7F845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5C0FB6-DCD3-429B-AADA-A4CDA7D7F845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5C0FB6-DCD3-429B-AADA-A4CDA7D7F845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5C0FB6-DCD3-429B-AADA-A4CDA7D7F845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AEC477-79C9-47D5-8B76-6C67EE5A3E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AEC477-79C9-47D5-8B76-6C67EE5A3E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AEC477-79C9-47D5-8B76-6C67EE5A3E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AEC477-79C9-47D5-8B76-6C67EE5A3E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AF1FF4-97FE-43A7-B249-72D882FBAA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AF1FF4-97FE-43A7-B249-72D882FBAA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AF1FF4-97FE-43A7-B249-72D882FBAA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AF1FF4-97FE-43A7-B249-72D882FBAA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A7B9EE-ECFB-4486-B365-85D079D1ADF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A7B9EE-ECFB-4486-B365-85D079D1ADF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A7B9EE-ECFB-4486-B365-85D079D1ADF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A7B9EE-ECFB-4486-B365-85D079D1ADF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
