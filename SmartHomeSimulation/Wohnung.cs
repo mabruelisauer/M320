@@ -8,5 +8,6 @@ namespace SmartHomeSimulation
 {
     internal class Wohnung
     {
+        public List<Zimmer> Zimmerliste { get; set; }
     }
 }

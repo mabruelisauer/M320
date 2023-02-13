@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartHomeSimulation
 {
-    internal class Class1
+    internal class Schlafzimmer : Zimmer 
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartHomeSimulation
 {
-    internal class ZiMitMarchise
+    internal class ZiMitMarchise : ZimmerMitAktor
     {
     }
 }
